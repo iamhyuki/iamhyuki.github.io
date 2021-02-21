@@ -1,14 +1,7 @@
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+locale                   : "en-US"
 title                    : "나를 위한 기록"
 name                     : "hyuki"
 description              : "남을 위한 행동이 결국 나를 위한다고 생각합니다. 진심으로 누군가에게 도움이 되는 기록들이 됐으면 싶습니다. 이를 차근히 쌓아갈 것입니다."
@@ -96,7 +89,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hkj5455@gmail.com"
+      url: mailto:hkj5455@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
