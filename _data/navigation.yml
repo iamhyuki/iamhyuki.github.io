@@ -9,13 +9,3 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
-  - title: Algorithm
-    url: /docs/algorithm/
-  
-  - title: test
-    children:
-      - title: test1
-        url: /docs/test1/
-      - title: test2
-        url: /docs/test2
