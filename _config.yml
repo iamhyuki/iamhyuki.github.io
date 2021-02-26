@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google" # 구글 애널리틱스 등록 "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-C9304918XS"
     anonymize_ip         : # true, false (default)
 
 
