@@ -25,7 +25,14 @@
             </ul>
               
        
-        <span class="nav__sub-title">etc</span>
+        <span class="nav__sub-title">Data Structure & Algorithm</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "datastructure" %}
+                        <li><a href="/categories/datastructure" class="">DataStructure ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "algorithm" %}
@@ -33,7 +40,15 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-
+        
+        <span class="nav__sub-title">etc</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "etc" %}
+                        <li><a href="/categories/etc" class="">ETC ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
