@@ -268,8 +268,7 @@ defaults:
       share: true
       related: true
       sidebar_main: true
-      toc_ads: true
-      toc_sticky: true
+      toc: true
   
  # _pages
   - scope:
