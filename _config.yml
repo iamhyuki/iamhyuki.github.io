@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "나를 위한 기록"
 name                     : "hyuki"
-description              : "남을 위한 행동이 결국 나를 위한다고 생각합니다. 진심으로 누군가에게 도움이 되는 기록들이 됐으면 싶습니다. 이를 차근히 쌓아갈 것입니다."
+description              : "사실 누군가에게 도움이 되는 기록들이 됐으면 합니다. "
 url                      : "https://iamhyuki.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "hyuki"
   avatar           : "/images/assets/hyuki-profile.jpg"
-  bio              : "차근히 쌓아갈 것 입니다."
+  bio              : "쌓아가는 중입니다."
   location         : "South Korea"
   email            :
   links:
