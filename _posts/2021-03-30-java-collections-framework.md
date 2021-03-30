@@ -34,7 +34,7 @@ Collection 인터페이스 상위에 있는 **iterable 인터페이스** 존재�
 #### List
 List Interface는 대표적인 선형 자료구조이다. 배열의 기능을 갖고 있으며, 배열의 단점을 보완하여 동적으로 크기를 할당할 수 있다.
   
-__<List Interface의 대표적인 메소드>__
+ **<List Interface의 대표적인 메소드>** 
 <p align="center">
        <img src="/images/2021-03-31/list-interface-method.png" alt="" style="zoom: 75%;" />
 </p>
@@ -48,7 +48,7 @@ __<List Interface의 대표적인 메소드>__
 #### Queue
 Queue Interface는 선형 자료구조로 주로 순서가 있는 데이터를 기반으로 FIFO(First-in First-out : 선입선출)을 위해 만들어진 인터페이스다.
   
-**<Queue/Deque Interface의 대표적인 메소드>**
+ **<Queue/Deque Interface의 대표적인 메소드>** 
 <p align="center">
        <img src="/images/2021-03-31/queue-interface-method.png" alt="" style="zoom: 75%;" />
 </p>
@@ -61,7 +61,7 @@ Queue Interface는 선형 자료구조로 주로 순서가 있는 데이터를 �
 #### Set
 말 그대로 '집합'이다. 데이터 중복이 불가능하며, 저장 순서를 보장하지 않는다는 특징이 있다. (물론 예외도 있다.)
   
-__<Set Interface의 대표적인 메소드>__
+ **<Set Interface의 대표적인 메소드>** 
 <p align="center">
        <img src="/images/2021-03-31/set-interface-method.png" alt="" style="zoom: 75%;" />
 </p>
